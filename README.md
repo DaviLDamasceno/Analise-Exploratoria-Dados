@@ -1,4 +1,4 @@
-#Analise Exploratória de Dados
+## Analise Exploratória de Dados
 
 Este repositório contém um código em Python que realiza análises estatísticas e gera visualizações gráficas a partir de um conjunto de dados de preços de placas de vídeo. O objetivo é explorar as distribuições dos preços à vista e a prazo e verificar se os dados seguem uma distribuição normal.
 
