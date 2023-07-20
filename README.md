@@ -16,7 +16,7 @@ Este repositório contém um código em Python que realiza análises estatístic
 
 ## Descrição do código
 
-O código realiza as seguintes tarefas:
+O código realiza  as seguintes tarefas:
 
 1. Importa as bibliotecas necessárias para a análise.
 2. Carrega os dados do arquivo CSV em um DataFrame usando a biblioteca pandas.
